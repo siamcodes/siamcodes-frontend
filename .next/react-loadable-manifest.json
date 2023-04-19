@@ -1,0 +1,18 @@
+{
+  "../components/crud/BlogCreate.js -> react-quill": {
+    "id": 1167,
+    "files": [
+      "static/chunks/framework-347b6d4b696f9744.js",
+      "static/chunks/eabe11fc.88871a9163aee188.js",
+      "static/chunks/167.af8b047f3c51fe89.js"
+    ]
+  },
+  "../components/crud/BlogUpdate.js -> react-quill": {
+    "id": 1167,
+    "files": [
+      "static/chunks/framework-347b6d4b696f9744.js",
+      "static/chunks/eabe11fc.88871a9163aee188.js",
+      "static/chunks/167.af8b047f3c51fe89.js"
+    ]
+  }
+}
